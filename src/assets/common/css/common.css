@@ -1,0 +1,67 @@
+.unSelect {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+.DM{
+  font-family: DM;
+}
+.maskBackground {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1001;
+  color: #fff;
+  box-sizing: border-box;
+}
+
+.DM {
+  font-family: DM;
+}
+
+.mainBtn {
+  cursor: pointer;
+  background-color: #273045;
+  border: solid 0.0625vw transparent;
+}
+
+.mainBtn:hover {
+  background-color: #1d4c6c;
+  border-color: #00b9ff;
+}
+
+.secondaryBtn {
+  background-color: #121721;
+  border: solid 0.0625vw #475566;
+  cursor: pointer;
+}
+
+.secondaryBtn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.tipsBtn {
+  background-color: #1d4c6c;
+  border: solid 0.0625vw #00b9ff;
+}
+
+.tips {
+  display: inline-block;
+  width: auto;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #28b3fc;
+  min-width: 34px;
+  z-index: 9999;
+  padding: 0 0.4vw;
+}
+
+.banGestures {
+  cursor: not-allowed;
+  background: #232b3e;
+  color: rgba(255, 255, 255, 0.5);
+}

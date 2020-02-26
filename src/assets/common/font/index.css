@@ -1,0 +1,86 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_1618067_6x9uy5vbrxs.woff?t=1582179384512') format('woff');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-video:before {
+    content: "\e610";
+}
+
+.icon-phone:before {
+    content: "\e611";
+}
+
+.icon-tuli:before {
+    content: "\e60f";
+}
+
+.icon-verticalLineReverse:before {
+    content: "\e60e";
+}
+
+.icon-unhandled:before {
+    content: "\e60c";
+}
+
+.icon-handled:before {
+    content: "\e60d";
+}
+
+.icon-verticalLine:before {
+    content: "\e603";
+}
+
+.icon-splitLine:before {
+    content: "\e60b";
+}
+
+.icon-close:before {
+    content: "\e69e";
+}
+
+.icon-weather:before {
+    content: "\e600";
+}
+
+.icon-notification:before {
+    content: "\e601";
+}
+
+.icon-humidity:before {
+    content: "\e602";
+}
+
+.icon-apartment:before {
+    content: "\e604";
+}
+
+.icon-satisfaction:before {
+    content: "\e605";
+}
+
+.icon-residence:before {
+    content: "\e606";
+}
+
+.icon-sale:before {
+    content: "\e607";
+}
+
+.icon-businessDistrict:before {
+    content: "\e608";
+}
+
+.icon-park:before {
+    content: "\e609";
+}
+
+.icon-pm25:before {
+    content: "\e60a";
+}

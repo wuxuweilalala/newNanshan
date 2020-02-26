@@ -1,0 +1,19 @@
+@font-face {
+    font-family: SR;
+    src: url('https://img.24e.co/bi/font/SourceHanSansCN-Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: DM;
+    src: url('~@/assets/common/font/DINCOND-MEDIUM.OTF');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.iconfont {
+    font-size: 0.8vw;
+}
